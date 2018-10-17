@@ -1,0 +1,2 @@
+Text editor.
+!! Name was mandatory as it is a Notepad copy.
